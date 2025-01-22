@@ -1,0 +1,4 @@
+Brokenithm-Evolved：
+    网址：https://gitea.tendokyu.moe/Dniel97/Brokenithm-Evolved
+    协议：GPLv3
+
