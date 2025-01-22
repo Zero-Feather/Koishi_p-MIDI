@@ -3,4 +3,4 @@
 
 使用配布的MIDI文件时**请遵循GPLv3协议**，并在使用的作品简介中**标注原作者**的[b站账号](https://space.bilibili.com/470665937)
 
-[什么是GPL－3(GUN公共许可证v3.0)？](https://www.runoob.com/w3cnote/open-source-license.html)
+[什么是GPL-3.0(GUN公共许可证v3.0)？](https://www.runoob.com/w3cnote/open-source-license.html)
